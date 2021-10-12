@@ -1,0 +1,12 @@
+body {
+    font: bold;
+    font-family: Helvetica, sans-serif, Arial;
+    background-color: bisque;
+}
+
+div {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Helvetica, sans-serif, arial;
+}

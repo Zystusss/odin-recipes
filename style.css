@@ -1,0 +1,7 @@
+h1, body {
+    color: orange;
+    background: slategray;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+}
